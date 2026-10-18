@@ -1,7 +1,7 @@
 # Kolekcja: BANDYCKA JAZDA — Specyfikacja Produktowa
 
 ## Motyw i narracja
-Seria "BANDYCKA JAZDA" to limitowana kolekcja stylizowana na klimaty uliczne i underground — "AK-47 / Cartoon Syndicate". Produkty łączą wysoką jakość wykonania z phygitalną autentycznością (NFC + certyfikat), zapewniając wartość kolekcjonerską i użyteczność w ekosystemie DilloCrocodilo.
+Seria "AK-47⁹" to limitowana kolekcja stylizowana na klimaty uliczne i underground — "AK-47 / Cartoon Syndicate". Produkty łączą wysoką jakość wykonania z phygitalną autentycznością (NFC + certyfikat), zapewniając wartość kolekcjonerską i użyteczność w ekosystemie DilloCrocodilo.
 
 ## Produkty w serii
 1. Apparel — Czarna bluza "Bandycka Hoodie" 450 GSM
